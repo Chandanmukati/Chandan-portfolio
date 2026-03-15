@@ -96,7 +96,7 @@ function Resume() {
           </div>
 
           <div className="resume-download-wrap">
-              <a href="/chandannn cv.pdf" download="Chandan_Mukati_Resume.pdf" className="btn-download"><i className="fas fa-file-alt"></i> Download Resume</a>
+              <a href="/chandan_cv.pdf" download="Chandan_Mukati_Resume.pdf" className="btn-download"><i className="fas fa-file-alt"></i> Download Resume</a>
           </div>
       </div>
   </section>
