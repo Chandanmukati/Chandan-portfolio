@@ -463,12 +463,13 @@ section {
     width: calc(100% - 16px);
     height: calc(100% - 16px);
     object-fit: cover;
+    object-position: 40% 10%;
     border-radius: 50%;
     z-index: 3;
     position: relative;
     border: 4px solid var(--bg-surface);
     transition: var(--transition);
-    filter: grayscale(30%) sepia(10%) hue-rotate(180deg);
+    filter: grayscale(100%);
 }
 
 .hero-image-wrapper:hover .profile-img {

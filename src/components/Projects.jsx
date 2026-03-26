@@ -3,14 +3,14 @@ import React, { useState } from 'react';
 const projectsData = [
   {
     id: 1,
-    title: 'Slow Learner Identification System',
-    desc: 'A MERN-based platform to identify slow learners by analyzing student performance patterns. Features JWT authentication, teacher/admin dashboards, and MongoDB-backed real-time data tracking.',
+    title: 'AI-Powered Resume Builder',
+    desc: 'Built a high-performance web app using OpenAI GPT models to generate and enhance professional resumes. Features an ATS scoring system with job-description matching and a dynamic multi-template system (10+ layouts) with live preview and PDF export.',
     img: '/project1.png',
-    badge: 'In Progress',
-    tags: ['Full Stack', 'MERN'],
+    badge: 'Featured',
+    tags: ['Full Stack', 'AI'],
     categories: ['fullstack'],
-    techChips: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'JWT'],
-    linkInfo: { type: 'wip', text: ' Nov \'25 – Present', icon: 'fas fa-code-branch' }
+    techChips: ['React.js', 'Node.js', 'OpenAI', 'MERN'],
+    linkInfo: { type: 'link', url: 'https://github.com/Chandanmukati/Resume-Builder', icon: 'fab fa-github' }
   },
   {
     id: 2,

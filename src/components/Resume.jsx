@@ -41,7 +41,7 @@ function Resume() {
                       </div>
                       <div className="resume-card-body">
                           <h4 className="resume-degree">Bachelor of Technology - Computer Science and Engineering</h4>
-                          <p className="resume-score">CGPA: 6.59</p>
+                          <p className="resume-score">CGPA: 6.66</p>
                       </div>
                   </div>
 
@@ -96,7 +96,7 @@ function Resume() {
           </div>
 
           <div className="resume-download-wrap">
-              <a href="/chandan_cv.pdf" download="Chandan_Mukati_Resume.pdf" className="btn-download"><i className="fas fa-file-alt"></i> Download Resume</a>
+              <a href="./chandan_cv.pdf?v=2" download="Chandan_Mukati_Resume.pdf" className="btn-download"><i className="fas fa-file-alt"></i> Download Resume</a>
           </div>
       </div>
   </section>
