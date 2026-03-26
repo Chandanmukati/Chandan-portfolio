@@ -478,9 +478,8 @@ section {
 }
 
 .hero-image-wrapper:hover .image-border {
-    animation-duration: 3s;
-    opacity: 1;
-    box-shadow: 0 0 40px var(--brand-secondary), 0 0 80px var(--brand-primary);
+    animation-duration: 10s; /* Keep it slow */
+    opacity: 0.8; /* Keep it subtle */
 }
 
 
